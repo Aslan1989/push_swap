@@ -1,0 +1,596 @@
+[
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-build",
+  "command": "/usr/bin/clang++ -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -o CMakeFiles/ImGui-SFML.dir/imgui-SFML.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src/imgui-SFML.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src/imgui-SFML.cpp",
+  "output": "_deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/imgui-SFML.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-build",
+  "command": "/usr/bin/clang++ -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -o CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/imgui-src/imgui.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src/imgui.cpp",
+  "output": "_deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-build",
+  "command": "/usr/bin/clang++ -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -o CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_draw.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/imgui-src/imgui_draw.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src/imgui_draw.cpp",
+  "output": "_deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-build",
+  "command": "/usr/bin/clang++ -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -o CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_tables.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/imgui-src/imgui_tables.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src/imgui_tables.cpp",
+  "output": "_deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-build",
+  "command": "/usr/bin/clang++ -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -o CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_widgets.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/imgui-src/imgui_widgets.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src/imgui_widgets.cpp",
+  "output": "_deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-build",
+  "command": "/usr/bin/clang++ -DIMGUI_SFML_EXPORTS -DIMGUI_SFML_SHARED_LIB -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -o CMakeFiles/ImGui-SFML.dir/__/imgui-src/misc/cpp/imgui_stdlib.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/imgui-src/misc/cpp/imgui_stdlib.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src/misc/cpp/imgui_stdlib.cpp",
+  "output": "_deps/imgui-sfml-build/CMakeFiles/ImGui-SFML.dir/__/imgui-src/misc/cpp/imgui_stdlib.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Clock.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Clock.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Clock.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Err.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Err.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Err.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Lock.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Lock.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Lock.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Mutex.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Mutex.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Mutex.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Sleep.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Sleep.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Sleep.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/String.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/String.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/String.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Thread.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Thread.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Thread.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Thread.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/ThreadLocal.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/ThreadLocal.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/ThreadLocal.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/ThreadLocal.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Time.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Time.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Time.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Time.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/FileInputStream.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/FileInputStream.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/FileInputStream.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/MemoryInputStream.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/MemoryInputStream.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Unix/ClockImpl.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Unix/ClockImpl.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Unix/ClockImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ClockImpl.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Unix/MutexImpl.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Unix/MutexImpl.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Unix/MutexImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/MutexImpl.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Unix/SleepImpl.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Unix/SleepImpl.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Unix/SleepImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/SleepImpl.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Unix/ThreadImpl.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Unix/ThreadImpl.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Unix/ThreadImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ThreadImpl.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/System",
+  "command": "/usr/bin/clang++ -DSFML_SYSTEM_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-system.dir/Unix/ThreadLocalImpl.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Unix/ThreadLocalImpl.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System/Unix/ThreadLocalImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/ThreadLocalImpl.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/Clipboard.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Clipboard.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Clipboard.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/Context.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Context.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Context.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/Cursor.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Cursor.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Cursor.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/GlContext.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/GlContext.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/GlContext.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/GlResource.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/GlResource.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/GlResource.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/Joystick.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Joystick.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Joystick.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/JoystickManager.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/JoystickManager.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/JoystickManager.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/Keyboard.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Keyboard.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Keyboard.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/Mouse.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Mouse.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Mouse.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/Touch.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Touch.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Touch.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/Sensor.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Sensor.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Sensor.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/SensorManager.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/SensorManager.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/SensorManager.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/VideoMode.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/VideoMode.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/VideoMode.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/Window.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Window.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/Window.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/WindowImpl.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/WindowImpl.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/WindowImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/cpp_objc_conversion.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/cpp_objc_conversion.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/cpp_objc_conversion.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/cpp_objc_conversion.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/cg_sf_conversion.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/cg_sf_conversion.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/cg_sf_conversion.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/cg_sf_conversion.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/CursorImpl.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/CursorImpl.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/CursorImpl.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/CursorImpl.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/ClipboardImpl.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/ClipboardImpl.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/ClipboardImpl.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/ClipboardImpl.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/InputImpl.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/InputImpl.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/InputImpl.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/InputImpl.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/HIDInputManager.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/HIDInputManager.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/HIDInputManager.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/HIDInputManager.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/HIDJoystickManager.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/HIDJoystickManager.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/HIDJoystickManager.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/HIDJoystickManager.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/JoystickImpl.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/JoystickImpl.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/JoystickImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/JoystickImpl.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/NSImage+raw.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/NSImage+raw.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/NSImage+raw.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/NSImage+raw.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SensorImpl.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SensorImpl.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SensorImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SensorImpl.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SFApplication.m.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFApplication.m",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFApplication.m",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SFApplication.m.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SFApplicationDelegate.m.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFApplicationDelegate.m",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFApplicationDelegate.m",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SFApplicationDelegate.m.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SFContext.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFContext.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFContext.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SFContext.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SFKeyboardModifiersHelper.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFKeyboardModifiersHelper.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFKeyboardModifiersHelper.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SFKeyboardModifiersHelper.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SFOpenGLView.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFOpenGLView.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFOpenGLView.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SFOpenGLView.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SFOpenGLView+keyboard.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFOpenGLView+keyboard.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFOpenGLView+keyboard.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SFOpenGLView+keyboard.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SFOpenGLView+mouse.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFOpenGLView+mouse.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFOpenGLView+mouse.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SFOpenGLView+mouse.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SFSilentResponder.m.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFSilentResponder.m",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFSilentResponder.m",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SFSilentResponder.m.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SFWindow.m.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFWindow.m",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFWindow.m",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SFWindow.m.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SFWindowController.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFWindowController.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFWindowController.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SFWindowController.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/SFViewController.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFViewController.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/SFViewController.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/SFViewController.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/VideoModeImpl.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/VideoModeImpl.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/VideoModeImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/VideoModeImpl.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/WindowImplCocoa.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/WindowImplCocoa.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/WindowImplCocoa.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/WindowImplCocoa.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Window",
+  "command": "/usr/bin/clang++ -DSFML_WINDOW_EXPORTS -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-window.dir/OSX/AutoreleasePoolWrapper.mm.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/AutoreleasePoolWrapper.mm",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window/OSX/AutoreleasePoolWrapper.mm",
+  "output": "_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/OSX/AutoreleasePoolWrapper.mm.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/BlendMode.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/BlendMode.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/BlendMode.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Color.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Color.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Color.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Color.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Font.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Font.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Font.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Glsl.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Glsl.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Glsl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/GLCheck.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/GLExtensions.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Image.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Image.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Image.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/ImageLoader.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/ImageLoader.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ImageLoader.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/RenderStates.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderStates.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderStates.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderTexture.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderTarget.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderWindow.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Shader.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Shader.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Shader.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Texture.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Texture.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Texture.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/TextureSaver.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Transform.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Transform.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Transform.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Transformable.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Transformable.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Transformable.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/View.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/View.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/View.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Vertex.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Vertex.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Vertex.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Vertex.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/GLLoader.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/GLLoader.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/GLLoader.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLLoader.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Shape.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Shape.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Shape.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/CircleShape.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/CircleShape.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/CircleShape.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RectangleShape.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/ConvexShape.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Sprite.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Sprite.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Sprite.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/Text.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Text.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/Text.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/VertexArray.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/VertexArray.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/VertexArray.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/VertexBuffer.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/VertexBuffer.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImpl.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImpl.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplFBO.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-build/src/SFML/Graphics",
+  "command": "/usr/bin/clang++ -DSFML_GRAPHICS_EXPORTS -DSTBI_FAILURE_USERMSG -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/stb_image -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks -I/Library/Frameworks/Mono.framework/Headers -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/extlibs/headers/freetype2 -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -fPIC -fvisibility=hidden -stdlib=libc++ -o CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.o -c /Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics/RenderTextureImplDefault.cpp",
+  "output": "_deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/src",
+  "command": "/usr/bin/clang++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/../include -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -g -std=gnu++17 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/VisualizerLib.dir/utils.cpp.o -c /Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/utils.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/utils.cpp",
+  "output": "src/CMakeFiles/VisualizerLib.dir/utils.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/src",
+  "command": "/usr/bin/clang++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/../include -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -g -std=gnu++17 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/VisualizerLib.dir/queues.cpp.o -c /Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/queues.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/queues.cpp",
+  "output": "src/CMakeFiles/VisualizerLib.dir/queues.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/src",
+  "command": "/usr/bin/clang++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/../include -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -g -std=gnu++17 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/VisualizerLib.dir/pushswap.cpp.o -c /Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/pushswap.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/pushswap.cpp",
+  "output": "src/CMakeFiles/VisualizerLib.dir/pushswap.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/src",
+  "command": "/usr/bin/clang++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/../include -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -g -std=gnu++17 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/VisualizerLib.dir/gui.cpp.o -c /Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/gui.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/gui.cpp",
+  "output": "src/CMakeFiles/VisualizerLib.dir/gui.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/src",
+  "command": "/usr/bin/clang++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/../include -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -g -std=gnu++17 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/visualizer.dir/main.cpp.o -c /Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/main.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/main.cpp",
+  "output": "src/CMakeFiles/visualizer.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/tests",
+  "command": "/usr/bin/clang++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/push_swap_visualizer/tests/include -I/Users/aisaev/my_projects/push_swap/build/_deps/catch2-src/single_include -I/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/../include -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -g -std=gnu++11 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/tests.dir/test_queues.cpp.o -c /Users/aisaev/my_projects/push_swap/push_swap_visualizer/tests/test_queues.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/push_swap_visualizer/tests/test_queues.cpp",
+  "output": "tests/CMakeFiles/tests.dir/test_queues.cpp.o"
+},
+{
+  "directory": "/Users/aisaev/my_projects/push_swap/build/tests",
+  "command": "/usr/bin/clang++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -I/Users/aisaev/my_projects/push_swap/push_swap_visualizer/tests/include -I/Users/aisaev/my_projects/push_swap/build/_deps/catch2-src/single_include -I/Users/aisaev/my_projects/push_swap/push_swap_visualizer/src/../include -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-src -I/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src -I/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/include -g -std=gnu++11 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/tests.dir/test_pushswap.cpp.o -c /Users/aisaev/my_projects/push_swap/push_swap_visualizer/tests/test_pushswap.cpp",
+  "file": "/Users/aisaev/my_projects/push_swap/push_swap_visualizer/tests/test_pushswap.cpp",
+  "output": "tests/CMakeFiles/tests.dir/test_pushswap.cpp.o"
+}
+]

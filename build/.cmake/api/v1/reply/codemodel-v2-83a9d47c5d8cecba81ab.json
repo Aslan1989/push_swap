@@ -1,0 +1,362 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						12,
+						13
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "dependencies",
+					"childIndexes" : 
+					[
+						2,
+						4,
+						10
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-dependencies-Debug-8fce1fdbc2aed82ddd42.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "dependencies"
+				},
+				{
+					"build" : "dependencies/imgui-sfml",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-dependencies.imgui-sfml-Debug-31ffcd22c6247fc65df2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "dependencies/imgui-sfml"
+				},
+				{
+					"build" : "_deps/imgui-sfml-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.imgui-sfml-build-Debug-558bb275db9643a50240.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "/Users/aisaev/my_projects/push_swap/build/_deps/imgui-sfml-src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "dependencies/sfml",
+					"childIndexes" : 
+					[
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-dependencies.sfml-Debug-0ec0348355e35f0d8c5c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "dependencies/sfml"
+				},
+				{
+					"build" : "_deps/sfml-build",
+					"childIndexes" : 
+					[
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.sfml-build-Debug-e87ccb72643c026f39cf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.2"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src"
+				},
+				{
+					"build" : "_deps/sfml-build/src/SFML",
+					"childIndexes" : 
+					[
+						7,
+						8,
+						9
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.sfml-build.src.SFML-Debug-632f9e931bea7f4391ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.2"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 2,
+					"source" : "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML"
+				},
+				{
+					"build" : "_deps/sfml-build/src/SFML/System",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.sfml-build.src.SFML.System-Debug-bac28f1642c032412f52.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.2"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 2,
+					"source" : "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/System",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "_deps/sfml-build/src/SFML/Window",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.sfml-build.src.SFML.Window-Debug-6bfc7cdba84a168afe57.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.2"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 2,
+					"source" : "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Window",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "_deps/sfml-build/src/SFML/Graphics",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.sfml-build.src.SFML.Graphics-Debug-243a82b2fc1485f3905e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.2"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 2,
+					"source" : "/Users/aisaev/my_projects/push_swap/build/_deps/sfml-src/src/SFML/Graphics",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "dependencies/catch2",
+					"childIndexes" : 
+					[
+						11
+					],
+					"jsonFile" : "directory-dependencies.catch2-Debug-9ea4b1d3f8d88eacebed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "dependencies/catch2"
+				},
+				{
+					"build" : "_deps/catch2-build",
+					"jsonFile" : "directory-_deps.catch2-build-Debug-f44cfab01daceffdc55a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 3,
+					"source" : "/Users/aisaev/my_projects/push_swap/build/_deps/catch2-src"
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						1,
+						6
+					]
+				},
+				{
+					"build" : "tests",
+					"jsonFile" : "directory-tests-Debug-b01f6abb0ab61427ef3b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4,
+						10,
+						12,
+						13
+					],
+					"name" : "push_swap_visualizer",
+					"targetIndexes" : 
+					[
+						1,
+						5,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "imgui_sfml",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"name" : "SFML",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "Catch2",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "ImGui-SFML::@0d4f94df99120bc7405e",
+					"jsonFile" : "target-ImGui-SFML-Debug-c9a66ed5b2e70e36a044.json",
+					"name" : "ImGui-SFML",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "VisualizerLib::@145eef247bfb46b6828c",
+					"jsonFile" : "target-VisualizerLib-Debug-1987ce211b6841c85a06.json",
+					"name" : "VisualizerLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "sfml-graphics::@98af38147d5fa7e70f61",
+					"jsonFile" : "target-sfml-graphics-Debug-112624169027430710e2.json",
+					"name" : "sfml-graphics",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "sfml-system::@8cb1db2982443611e568",
+					"jsonFile" : "target-sfml-system-Debug-fa546f5d83569d17cc9b.json",
+					"name" : "sfml-system",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "sfml-window::@5730451e331e3690ae65",
+					"jsonFile" : "target-sfml-window-Debug-efd4d4f9fce31154975b.json",
+					"name" : "sfml-window",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "tests::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-tests-Debug-2095e988f97827101f17.json",
+					"name" : "tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "visualizer::@145eef247bfb46b6828c",
+					"jsonFile" : "target-visualizer-Debug-1cb92b4cc97dcceb5dfd.json",
+					"name" : "visualizer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/aisaev/my_projects/push_swap/build",
+		"source" : "/Users/aisaev/my_projects/push_swap/push_swap_visualizer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
